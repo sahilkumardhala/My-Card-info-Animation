@@ -1,4 +1,4 @@
-![theme](https://github.com/sahilkumardhala/My-Card-info-Animation/blob/main/Theme.png)
+![theme](https://github.com/sahilkumardhala/My-Card-info-Animation/blob/main/Theme.jpg)
 
 # My-Card-info-Animation
 # [📌Live Views](https://sahilkumardhala.github.io/My-Card-info-Animation/)
