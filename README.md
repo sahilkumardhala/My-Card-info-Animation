@@ -1,5 +1,4 @@
-![Screenshot_1-removebg-preview](https://github.com/sahilkumardhala/My-Card-info-Animation/assets/132347733/158d4c78-f388-43e1-9274-741168fde040)
-
+![theme](https://github.com/sahilkumardhala/My-Card-info-Animation/blob/main/Theme.jpg)
 
 # My-Card-info-Animation
 # [📌Live Views](https://sahilkumardhala.github.io/My-Card-info-Animation/)
